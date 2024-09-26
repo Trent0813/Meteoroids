@@ -1,2 +1,2 @@
-# asteroids
-It's Meteoroids, not asteroids. Fuck.
+# ASTEROIDS
+It's Meteoroids, not Asteroids. Fuck.
